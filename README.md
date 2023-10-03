@@ -4,8 +4,8 @@ A small project allow loggedin user to view public Github repo by filter repo's 
 
 You can try demo on some free frontend hosting below :
 
-Surge : [demo](https://ethereal-lunch.surge.sh/).
-Vercel : //COMING SOON
+Surge : [demo](https://ethereal-lunch.surge.sh/).\
+Vercel : //COMING SOON \
 Netlify : //COMING SOON
 
 Technical stack :
