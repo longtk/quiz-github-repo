@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Objective";
+  src: url("../fonts/Objective-Regular.otf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Objective";
+  src: url("../fonts/Objective-Medium.otf") format("truetype");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Objective";
+  src: url("../fonts/Objective-Bold.otf") format("truetype");
+  font-weight: 700;
+}
