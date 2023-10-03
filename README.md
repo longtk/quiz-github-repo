@@ -2,6 +2,12 @@
 
 A small project allow loggedin user to view public Github repo by filter repo's username . Then you can share that github to your facebook home feed or news
 
+You can try demo on some free frontend hosting below :
+
+Surge : [demo](https://ethereal-lunch.surge.sh/).
+Vercel : //COMING SOON
+Netlify : //COMING SOON
+
 Technical stack :
 
 - Reactjs (v18) with Typescript, Tailwindcss(v3), React-Hook-Form, Facebook SDK, ...
