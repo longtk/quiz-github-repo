@@ -1,10 +1,10 @@
 # Github Repo loader
 
-A small project allow loggedin user to view public Github repo by filter repo's username
+A small project allow loggedin user to view public Github repo by filter repo's username . Then you can share that github to your facebook home feed or news
 
 Technical stack :
 
-- Reactjs (v18) with Typescript, Tailwindcss(v3), React-Hook-Form, ...
+- Reactjs (v18) with Typescript, Tailwindcss(v3), React-Hook-Form, Facebook SDK, ...
 
 To get started with GitHub Repo Loader, follow these steps:
 
